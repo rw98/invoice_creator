@@ -1,0 +1,14 @@
+C:\workspace\amazon_invoice_creator\src\main\java\model\Anschrift.java
+C:\workspace\amazon_invoice_creator\src\main\java\converter\DtoToXml.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\xml\ArtikelXml.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\xml\AnschriftXml.java
+C:\workspace\amazon_invoice_creator\src\main\java\input\CsvInput.java
+C:\workspace\amazon_invoice_creator\src\main\java\app\Application.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\Bestellung.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\csv\BestellungCsv.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\xml\BestellungXml.java
+C:\workspace\amazon_invoice_creator\src\main\java\ui\MainFrame.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\xml\RechnungXml.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\Artikel.java
+C:\workspace\amazon_invoice_creator\src\main\java\mapping\RechnungMapper.java
+C:\workspace\amazon_invoice_creator\src\main\java\model\Rechnung.java

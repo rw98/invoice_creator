@@ -1,0 +1,16 @@
+input\CsvInput.class
+model\xml\BestellungXml.class
+ui\MainFrame$1.class
+model\Anschrift.class
+model\xml\ArtikelXml.class
+model\csv\BestellungCsv.class
+ui\MainFrame.class
+model\Artikel.class
+converter\DtoToXml.class
+ui\MainFrame$2.class
+model\xml\RechnungXml.class
+mapping\RechnungMapper.class
+model\Rechnung.class
+model\Bestellung.class
+model\xml\AnschriftXml.class
+app\Application.class
